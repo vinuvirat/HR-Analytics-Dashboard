@@ -38,27 +38,4 @@ CREATE TABLE users (
     permissions TEXT
 );
 
-SELECT * FROM applicants;
-
-UPDATE applicants
-SET created_at='2026-01-15'
-WHERE id=1;
-
--- update ---
-
-UPDATE applicants
-SET created_at='2026-01-15'
-WHERE id=5;
-
-
-UPDATE applicants
-SET created_at='2026-02-15'
-WHERE id=6;
-
-
-UPDATE applicants
-SET created_at='2026-03-15'
-WHERE id=10;
-
-
 SELECT * FROM users;

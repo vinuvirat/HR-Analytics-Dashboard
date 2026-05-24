@@ -79,7 +79,7 @@ The dashboard provides insights into:
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
+![Dashboard](dashboard.jpeg)
 
 ### KPI Insights
 ![KPI](screenshots/kpi.jpeg)

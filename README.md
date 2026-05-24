@@ -79,13 +79,13 @@ The dashboard provides insights into:
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### KPI Insights
-![KPI](screenshots/kpi.jpg)
+![KPI](screenshots/kpi.jpeg)
 
 ### Applicant Details
-![Applicants](screenshots/applicants.jpg)
+![Applicants](screenshots/applicants.jpeg)
 
 ---
 
